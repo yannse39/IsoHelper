@@ -1,6 +1,7 @@
 Explorateur de Système de Fichiers ISO 9660
 
 Un projet permettant de naviguer et d'explorer les systèmes de fichiers ISO 9660.
+
 Installation
 
 Dans le répertoire racine, exécutez la commande make pour compiler le projet.

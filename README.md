@@ -8,8 +8,7 @@ Dans le répertoire racine, exécutez la commande make pour compiler le projet.
 
 Utilisation
 
-Le programme se compose de deux fichiers exécutables : iso_helper et iso_client.
-iso_helper
+Le programme se compose de deux fichiers exécutables : iso9660 et main.
 
 Exécutez le binaire en tant que explorateur de système de fichiers ISO 9660. Ce programme permet d'explorer et d'interagir avec une image ISO 9660.
 
